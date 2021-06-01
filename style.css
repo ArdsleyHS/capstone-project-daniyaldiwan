@@ -5,7 +5,7 @@ body {
   color:white;
   font-size:50px;
   font-family:"Brush Script MT", cursive;
-  padding-left: 12.5%;
+  padding-left: 50px;
 }
 .subtitle {
   color:white;
@@ -13,23 +13,23 @@ body {
   font-family:"Papyrus", fantasy;
 }
 #one {
-  padding-left:25%;
+  padding-left:200px;
 }
 #two {
-  padding-left:37.5%;
+  padding-left:350px;
 }
 #three {
-  padding-left:50%;
+  padding-left:500px;
 }
 #three {
-  padding-left:62.5%;
+  padding-left:650px;
 }
 #four {
-  padding-left:75%;
+  padding-left:800px;
 }
 #five {
-  padding-left:87.5%;
+  padding-left:950px;
 }
 #six {
-  padding-left:100%;
+  padding-left:1100px;
 }
