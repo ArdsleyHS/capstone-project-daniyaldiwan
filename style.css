@@ -5,11 +5,31 @@ body {
   color:white;
   font-size:50px;
   font-family:"Brush Script MT", cursive;
-  padding-left: 50px;
+  padding-left: 12.5%;
 }
 .subtitle {
   color:white;
   font-size:30px;
   font-family:"Papyrus", fantasy;
-  padding-left: 150px;
+}
+#one {
+  padding-left:25%;
+}
+#two {
+  padding-left:37.5%;
+}
+#three {
+  padding-left:50%;
+}
+#three {
+  padding-left:62.5%;
+}
+#four {
+  padding-left:75%;
+}
+#five {
+  padding-left:87.5%;
+}
+#six {
+  padding-left:100%;
 }
