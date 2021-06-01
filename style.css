@@ -3,7 +3,12 @@ body {
 }
 .title {
   color:white;
-  font-size:60px;
+  font-size:50px;
   font-family:"Brush Script MT", cursive;
   padding-left: 50px;
+}
+.subtitle {
+  color:white;
+  font-size:30px;
+  font-family:"Papyrus", fantasy;
 }
