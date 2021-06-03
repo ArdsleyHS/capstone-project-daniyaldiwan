@@ -23,3 +23,6 @@ a:visited {
 a:hover{
   color:grey;
 }
+#pizza {
+  align-content: center;
+}
