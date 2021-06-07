@@ -29,3 +29,9 @@ a:hover{
   margin-right: auto;
   width: 80%;
 }
+.menu {
+  color:white;
+  font-size:30px;
+  font-family:"Papyrus", fantasy;
+  text-align: center;
+}
