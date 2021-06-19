@@ -49,6 +49,7 @@ iframe {
 }
 #abouttext {
     text-align: left;
+    padding-left: 15px;
 }
 #abouttitle {
   font-family:"Brush Script MT", cursive;
