@@ -49,12 +49,23 @@ iframe {
 }
 #abouttext {
     text-align: left;
-    padding-left: 15px;
+    padding-left: 40px;
 }
 #abouttitle {
   font-family:"Brush Script MT", cursive;
   text-align: center;
 }
+.reviewtitle {
+  color:white;
+  font-size:30px;
+  font-family:"Papyrus", fantasy;
+  text-align: center;
+  border-width: 5px;
+  border-style: solid;
+  padding:20px;
+}
 #reviewtext {
-  font-size: 10px;
+  padding-left: 20px;
+  padding-right:20px;
+  font-size: 20px;
 }
