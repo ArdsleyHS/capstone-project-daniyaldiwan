@@ -12,11 +12,11 @@ body {
   font-size:30px;
   font-family:"Papyrus", fantasy;
   display: inline-block;
-  float: left;
+  float: center;
   width: 250px;
   height:100px;
   text-align: center;
-  margin: 0px,0px,0px,0px;
+  padding-left: 15px;
 }
 a:visited {
   color:transparent;
@@ -51,6 +51,7 @@ iframe {
 #abouttext {
     text-align: left;
     padding-left: 40px;
+    padding-right: 40px;
 }
 #abouttitle {
   font-family:"Brush Script MT", cursive;
