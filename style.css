@@ -56,6 +56,7 @@ iframe {
 #abouttitle {
   font-family:"Brush Script MT", cursive;
   text-align: center;
+  font-size: 100px;
 }
 .reviewtitle {
   color:white;
@@ -70,4 +71,18 @@ iframe {
   padding-left: 20px;
   padding-right:20px;
   font-size: 20px;
+}
+#tableprice{
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: white;
+  padding: 15px;
+}
+th, td {
+  padding: 15px;
+}
+#menuhours {
+font-size: 50px;
+padding-left: 20px;
 }
