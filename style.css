@@ -18,8 +18,11 @@ body {
   text-align: center;
 
 }
+a {
+  text-decoration: none;
+}
 a:visited {
-  color:transparent;
+  color:white;
 }
 a:hover{
   color:grey;
@@ -71,6 +74,7 @@ iframe {
   padding-left: 20px;
   padding-right:20px;
   font-size: 20px;
+  color:white;
 }
 #tableprice{
   margin-left: auto;
