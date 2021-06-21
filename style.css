@@ -92,3 +92,16 @@ img {
   margin-right: auto;
   width: 50%;
 }
+.button {
+  transition-duration: 0.4s;
+  color:white;
+  font-size:30px;
+  font-family:"Papyrus", fantasy;
+  background-color: black;
+  color: white;
+}
+
+.button:hover {
+  background-color: white;
+  color:black;
+}
